@@ -1,2 +1,2 @@
-# static-test
-Test for static site
+# Website for Reologen i Lund
+Just a simple static website
